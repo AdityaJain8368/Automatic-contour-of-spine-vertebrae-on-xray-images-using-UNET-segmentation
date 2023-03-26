@@ -5,7 +5,7 @@ essential to identify the vertebrae of spine on human body for
 disease classification and surgery planning on X-Ray spine image.
 
 In this study, we make use of
-U-net architecture with Arelu and relu activation functions to identify vertebrae in the spinal column. We improve
+U-net architecture with Arelu and relu activation functions to identify and contour vertebrae in the spinal column. We improve
 the accuracy by adding additional layers along with pooling
 and normalization techniques.Used Dice loss and IOU for experimental performance
 evaluation. 
